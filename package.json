@@ -1,0 +1,17 @@
+{
+  "name": "edtech-domain-ownership-onboarding",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "example": "node --experimental-strip-types src/example.ts",
+    "test": "node --experimental-strip-types src/domain-ownership.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^5.6.3"
+  }
+}
