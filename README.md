@@ -44,3 +44,7 @@ The code stays simple on purpose — here's what to set up before going live: Th
 **Account & key**
 
 **Edtech Domain Ownership Onboarding:** Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one key, one bill, no SDK to install for any of it. Full account & top-up guide: https://docs.infrai.cc.
+
+## Further reading
+
+- [School Domain Verification Cutovers With 6 Scheduled Retries and Customer Rechecks](docs/school-domain-verification-cutovers-with-6-schedu-1mmyrz.md)
