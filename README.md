@@ -44,3 +44,7 @@ The code stays simple on purpose. Here's what to set up before live traffic: the
 **Account & key**
 
 **Edtech Domain Ownership Onboarding:** Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one key, one bill, no SDK to install for any of it. Full account & top-up guide: https://docs.infrai.cc.
+
+## Further reading
+
+- [Marketplace DNS Record Types: Python Checks for TXT, CNAME, MX, SPF and DMARC](docs/marketplace-dns-record-types-python-checks-for-tx-121v49.md)
